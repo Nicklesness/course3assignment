@@ -6,7 +6,9 @@ repository includes the following files:
 2. 'README.txt'
 3. UCI HAR Dataset - folder with:
   3.1 Original dataset including
-    3.1.1 'README.txt'
+
+    3.1.1 'README.txt'    
+  
     3.1.2 'features_info.txt': Shows information about the variables used on the feature vector.
     3.1.3'features.txt': List of all features.
     3.1.4'activity_labels.txt': Links the class labels with their activity name.
