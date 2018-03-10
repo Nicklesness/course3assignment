@@ -5,6 +5,7 @@ repository includes the following files:
 1. Codebook.Rmb - file which describes the analysis
 2. 'README.txt'
 3. UCI HAR Dataset - folder with:
+
   3.1 Original dataset including
 
     3.1.1 'README.txt'    
